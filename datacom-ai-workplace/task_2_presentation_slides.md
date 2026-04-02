@@ -5,7 +5,7 @@
 ---
 
 ## Slide 1: Emerging Tech Trends in Local Government
-*(Visual Suggestion: A 3-pillar infographic showing a connected city ecosystem)*
+![Smart City Ecosystem](images/slide_1.png)
 
 **Key Technologies Transforming Public Services:**
 1. **The Internet of Things (IoT):** Networks of connected sensors collecting real-time data from city infrastructure (like streetlights and water pipes).
@@ -18,7 +18,7 @@
 ---
 
 ## Slide 2: Primary Community Challenges
-*(Visual Suggestion: Three distinct cards horizontally aligned, each featuring a large, universally understood icon: 🚦 [Traffic Light], ♻️ [Recycle Bin], and 🛡️ [Shield])*
+![Challenges Icons](images/slide_2.png)
 
 **What are we trying to solve?**
 - **🚦 Traffic Congestion:** Growing populations are overwhelming traditional intersections and transit routes, leading to delays and pollution.
@@ -31,7 +31,7 @@
 ---
 
 ## Slide 3: Tech-Enabled Solutions & Next Steps
-*(Visual Suggestion: A clear 3-step timeline roadmap graphic leading to a central "Action" button)*
+![Tech Roadmap](images/slide_3.png)
 
 **The Smart City Roadmap:**
 1. **Traffic Optimization:** AI analyzes data from IoT cameras to instantly alter traffic light patterns, clearing bottlenecks dynamically.
