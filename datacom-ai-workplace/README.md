@@ -9,6 +9,17 @@ Partner with AI tools to enhance productivity, improve outcomes, and support you
 ### Your Goal
 Complete a series of tasks that demonstrate how AI can support workplace problem-solving — including writing prompts, designing presentations, and debugging code — all without needing a tech background.
 
+### Project Briefing: Why You're Here
+Datacom is rolling out a new initiative to help employees integrate AI into their everyday workflow — from research and planning to writing, prototyping, and communication. Your job isn’t to replace yourself with AI. It’s to work alongside it — to guide, refine, and apply its output meaningfully.
+
+By harnessing AI, you will:
+- Boost productivity
+- Make stronger, faster decisions
+- Free up time for creative and strategic thinking
+- Drive innovation and future-proof your career
+
+*(Note: We will be using this AI workspace in place of tools like ChatGPT to complete our tasks).*
+
 ### Your Team
 - **Maya (Manager / Product Lead):** Direct and supportive. Maya values initiative and clear communication. She loves seeing junior team members try things out and reflect on their process.
 - **Jordan (Coworker / Fellow Graduate):** Always experimenting with new AI tools. Jordan’s curious, enthusiastic, and a bit competitive — they’ll often ping you to compare notes.
