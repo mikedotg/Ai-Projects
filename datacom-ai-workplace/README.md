@@ -33,8 +33,8 @@ By harnessing AI, you will:
 - [x] **Task 1: AI Tools for Productivity**
   - [x] Write prompts
   - [x] Optimize outputs
-- [ ] **Task 2: AI for Visual Communication**
-  - [ ] Design presentation materials using AI
+- [x] **Task 2: AI for Visual Communication**
+  - [x] Design presentation materials using AI
 - [ ] **Task 3: AI for Problem Solving**
   - [ ] Debug code using AI
 - [ ] **Final Review:** Ensure all documentation and code are correctly committed and pushed to GitHub
