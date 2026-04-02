@@ -35,6 +35,6 @@ By harnessing AI, you will:
   - [x] Optimize outputs
 - [x] **Task 2: AI for Visual Communication**
   - [x] Design presentation materials using AI
-- [ ] **Task 3: AI for Problem Solving**
-  - [ ] Debug code using AI
-- [ ] **Final Review:** Ensure all documentation and code are correctly committed and pushed to GitHub
+- [x] **Task 3: AI for Problem Solving**
+  - [x] Debug code using AI
+- [x] **Final Review:** Ensure all documentation and code are correctly committed and pushed to GitHub
