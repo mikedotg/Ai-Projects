@@ -30,9 +30,9 @@ By harnessing AI, you will:
 ## 📋 Task List
 
 - [x] **Setup:** Initialize Git repository and create project documentation structure
-- [ ] **Task 1: AI Tools for Productivity**
-  - [ ] Write prompts
-  - [ ] Optimize outputs
+- [x] **Task 1: AI Tools for Productivity**
+  - [x] Write prompts
+  - [x] Optimize outputs
 - [ ] **Task 2: AI for Visual Communication**
   - [ ] Design presentation materials using AI
 - [ ] **Task 3: AI for Problem Solving**
