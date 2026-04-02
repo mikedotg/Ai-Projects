@@ -51,6 +51,9 @@ To verify the fix, I saved the original code locally as `contact.html` and opene
 
 I learned that debugging isn't always about writing complex logical pipelines; it's often about reading code for its intent, noticing tiny grammatical inconsistencies (like a missing word), and asking clear, focused questions to guide an AI towards the solution.
 
+**What I'd do differently next time:**
+Next time, I'd try to spot the issue myself before going to AI — even just spending five minutes reading the code line by line. In this case, comparing the input fields side by side would have revealed the missing `name` attribute. I'd also test with browser DevTools open from the start so I can inspect the form data being submitted in real time, rather than just relying on the URL query string.
+
 Let me know if I should package this up and pass it over to Sam to finalize deployment to the client's live site!
 
 Best regards,
